@@ -6,3 +6,9 @@
     margin-bottom: 10px;
     color: black;
 }
+.visited{
+    background-color: lightgreen;
+}
+.going{
+    background-color: lightcoral;
+}
