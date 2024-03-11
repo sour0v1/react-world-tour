@@ -8,7 +8,26 @@
 }
 .visited{
     background-color: lightgreen;
+    padding: 10px;
+    text-align: center;
+    color: black;
 }
 .going{
     background-color: lightcoral;
+    padding: 10px;
+    text-align: center;
+}
+button{
+    margin: 5px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 0;
+    background-color: orange;
+    font-size: 1rem;
+    
+}
+button:hover{
+    background-color: gray;
+    color: white;
+    
 }
